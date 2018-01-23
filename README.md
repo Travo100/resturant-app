@@ -1,6 +1,6 @@
-#Restaurant App
+# Restaurant App
 
-####Your application must use the following:
+#### Your application must use the following:
 
 - Must use a Node and Express Web Server
 
@@ -18,7 +18,7 @@
 
 - Must meet good quality coding standards (indentation, scoping, naming)
 
-####Your task is to:
+#### Your task is to:
 
 Create a full stack application that allows a user to login and save places they like to eat. The user will need to be able to sign up, login, and be able to save restaurants they want to eat at. They can get look up restaurants in their area using the google places API, yelp or some similar third party API. When the user saves a restaurants that record will be saved in the database.
 
@@ -28,5 +28,5 @@ Your application has at least 4 pages:
 3. saved restaurants 
 4. browse restaurants
 
-####BONUS: 
+#### BONUS: 
 Your user can delete and update their saved restaurants. 
